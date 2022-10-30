@@ -1,2 +1,2 @@
 # geosense
-The place for geospatial
+Anything geospatial
